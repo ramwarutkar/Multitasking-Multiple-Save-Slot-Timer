@@ -1,0 +1,2 @@
+# Multitasking-Multiple-Save-Slot-Timer
+Domain: – Embedded Electronics Problem Statement: – To build a Timer which can save multiple timer settings. User can set timer according to ‘By Date’ or ‘By Day’. ‘By Date’ setting sets the timer according to the date and triggers an action for a duration of time it has been set to. Similarly, ‘By Day’ sets the timer according to the days of week and when the condition meets triggers an action accordingly. ‘View Saved’ option shows the saved timer and incorporated the option to RESET the saved timer.
